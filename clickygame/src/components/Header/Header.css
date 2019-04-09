@@ -1,0 +1,10 @@
+.header {
+    background: #ed213a; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #ed213a, #93291e); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #ed213a, #93291e);
+    color: #fff;
+    min-height: 110px;
+    padding: 130px 20px;
+    padding-bottom: 110px;
+    text-align: center;
+}
